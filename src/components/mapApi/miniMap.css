@@ -1,0 +1,11 @@
+.miniMap {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 200px;
+  height: 200px;
+  z-index: 100;
+  border: 2px solid white;
+}
